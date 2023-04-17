@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904020198708",
+    "project_id": "flutter-katundu",
+    "storage_bucket": "flutter-katundu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904020198708:android:fc8ccfeb7a21cf09655161",
+        "android_client_info": {
+          "package_name": "com.maria.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904020198708-adjuco6a3mc61bauq926lctt23npo3tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgDwwNUAORHjKu14FDZwHRavJGyn_cQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904020198708-adjuco6a3mc61bauq926lctt23npo3tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
