@@ -166,6 +166,7 @@ class RegistrationScreen extends StatelessWidget {
         password: passwordTextEditingController.text).catchError((errMsg){
           displayToastMessage("Error:"+errMsg.toString(), context);
     })).user;
+    
 
     if(firebaseUser!=null)//user created
     {
